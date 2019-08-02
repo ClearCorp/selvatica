@@ -1,0 +1,4 @@
+[submodule "clearcorp/pos-addons"]
+	path = clearcorp/pos-addons
+	url = https://github.com/it-projects-llc/pos-addons.git
+	branch = 12.0

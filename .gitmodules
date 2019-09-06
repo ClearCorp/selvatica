@@ -2,3 +2,8 @@
 	path = clearcorp/pos-addons
 	url = https://github.com/it-projects-llc/pos-addons.git
 	branch = 12.0
+
+[submodule "ClearCorp/lacalifornia"]
+	path = ClearCorp/lacalifornia
+	url = git@github.com:ClearCorp/lacalifornia.git
+	branch = 12.0-pos-addons-test
